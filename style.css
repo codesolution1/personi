@@ -1,0 +1,41 @@
+/**
+*
+* ---------------------------------------------------------------------------
+*
+* Template Name: Personi | One Page - Responsive HTML5 personal Template
+* Template URI:	http://hiknik.com/personi/
+* Author : themewarehouse
+* Description: This is One Page Responsive HTML5 personal Template
+* Version : 1.2
+*
+* --------------------------------------------------------------------------- 
+*
+*/
+
+
+/***** ----- All css file ----- *****/
+
+/***** ======= bootstrap css ======= *****/
+@import url('css/bootstrap.min.css');
+/***** ======= font awesome css ======= *****/
+@import url('css/font-awesome.min.css');
+/***** ======= vegas css ======= *****/
+@import url('css/vegas.min.css');
+/***** ======= owl carousel css ======= *****/
+@import url('css/owl.carousel.min.css');
+/***** ======= particle css ======= *****/
+@import url('css/particle.css');
+/***** ======= YTPlayer css ======= *****/
+@import url('css/jquery.mb.YTPlayer.min.css');
+/***** ======= animate css ======= *****/
+@import url('css/animate.min.css');
+/***** ======= hover css ======= *****/
+@import url('css/hover.css');
+/***** ======= typing css ======= *****/
+@import url('css/typing.css');
+/***** ======= lightbox css ======= *****/
+@import url('css/lightbox.min.css');
+/***** ======= main css ======= *****/
+@import url('css/main.css');
+/***** ======= responsive css ======= *****/
+@import url('css/responsive.css');
